@@ -1,2 +1,2 @@
 # random_stuff
-Sample code for papers that are currently in the graveyard.
+Sample code for dead papers.
